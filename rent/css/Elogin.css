@@ -1,0 +1,21 @@
+.cycle{
+    	width:400px;
+        height:400px;
+        border-radius:50%;
+        background-color:white;
+        margin-top:200px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    body{
+    	width:100%;
+        background-color:#95CACA;
+    }
+    .txt{
+    	margin:auto;
+        padding-top:100px;
+        text-align:center;
+    }
+    .input{
+    	padding-bottom:10px;
+    }
